@@ -23,4 +23,4 @@ The CSV files with the raw data can be located in the below folder: https://gith
 
 ## Summary
 
-- The clearing of the suspected altered scores had a marginal difference on the overall results. Most of the scores declined marginally. Scores affected were: average math score, % passing math, % passing reading and overall passing %. But those declines were only marginal. 
+- The clearing of the suspected altered scores had a marginal difference on the overall results. Most of the scores declined marginally. Scores affected were: average math score, % passing math, % passing reading and overall passing %. But those declines were only a fraction of percent. 

@@ -12,7 +12,7 @@ Effect on school district metrict after the data was removed for the affected sc
 - Total budgets remained unchanged
 - Average math scores declined from  79% to 78.9%
 - Average reading scores remained at 81.9%
-- % Passing Math declined from to 75% to 74.8%
+- % Passing math declined from to 75% to 74.8%
 - % Passing reading declined from to 85.8% 85.7%
 - % Overall reading declined from to 65.2 to 64.9%
 
@@ -23,4 +23,4 @@ The CSV files with the raw data can be located in the below folder: https://gith
 
 ## Summary
 
-- The clearing of the suspected altered scores had a marginal difference on the overall results. Most of the scores declined marginally. Scores affected were: average math score, %passing math, % passing reading and overall passing %. But those declines were only marginal. 
+- The clearing of the suspected altered scores had a marginal difference on the overall results. Most of the scores declined marginally. Scores affected were: average math score, % passing math, % passing reading and overall passing %. But those declines were only marginal. 

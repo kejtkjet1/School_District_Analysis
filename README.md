@@ -19,7 +19,7 @@ Effect on school district metrict after the data was removed for the affected sc
 
 The code for the analysis can be located: https://github.com/kejtkjet1/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb
 
-The CSV files with the raw data can be located in the below folder: https://github.com/kejtkjet1/election-analysis/blob/main/analysis/election_results.txt
+The CSV files with the raw data can be located in the below folder: https://github.com/kejtkjet1/School_District_Analysis/tree/main/Resources
 
 ## Summary
 
